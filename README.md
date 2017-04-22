@@ -22,7 +22,7 @@ Bi-level error correction for PacBio long reads
 
 ---
 **Declaration**<br />
-Some parts of the codes are changed from LoRDEC and GATB library. If any conflicts, please contact the authors. 
+Some parts of the codes are changed from LoRDEC and GATB library.
 
 ## Status
 Submitted to *InCob 2017*.
