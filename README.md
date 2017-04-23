@@ -18,11 +18,11 @@ Bi-level error correction for PacBio long reads
 
 4. When runs *sh runCombine.sh*, please make sure that *sh runCorr.sh* must finished. As *muscle* runs in multiple cores with command "&".
 
-5. Before running the codes, please check long read file, short read file and output file in *runCorr.sh* or *runCombine.sh*.
+5. When running the codes, names of long read file, short read file and output file can modified in the files *runCorr.sh* or *runCombine.sh*.
 
 ---
 **Declaration**<br />
-Some parts of the codes are changed from LoRDEC and GATB library.
+Some parts of the codes are changed from LoRDEC and GATB library is used.
 
 ## Status
 Submitted to *InCob 2017*.
