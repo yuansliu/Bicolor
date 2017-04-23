@@ -25,7 +25,7 @@ Bi-level error correction for PacBio long reads
 Some parts of the codes are changed from LoRDEC and GATB library is used.
 
 ## Status
-Submitted to *InCob 2017*.
+Submitted to *InCoB 2017*.
 
 ### Contacts
 If any bugs during you run our code, please email to <yyuanshengliu@gmail.com>
