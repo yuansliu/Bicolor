@@ -1,5 +1,5 @@
 CC = g++
-GATB=../gatb-core-1.2.3-bin-Linux
+GATB=../gatb-core-1.2.3-bin-Linux     #if required, please change it to the path of your local GATB
 # CFLAG = -O3 -Wall -I$(GATB)/include/ -L$(GATB)/lib/ -lgatbcore -lhdf5 -ldl -lz -lpthread -std=c++0x
 CFLAG = -Wno-deprecated -I$(GATB)/include -L$(GATB)/lib -lgatbcore -lhdf5 -ldl -lz -lpthread -std=c++0x -O3
 
