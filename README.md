@@ -10,7 +10,7 @@ Bi-level error correction for PacBio long reads
 	2. sh runCombine.sh
 
 ## Tips
-1. GATB should be installed. Please see http://gatb-core.gforge.inria.fr. After installing, the variable *GATB* in the file *Makefile* is the path to search GATB.
+1. GATB should be installed. Please see http://gatb-core.gforge.inria.fr. After installing, the variable *GATB* in the file *Makefile* is the path to search GATB. Edit the second line in the file *Makefile*. *GATB*=the path of your local GATB.
 
 2. If errors occur when compiling GATB, the problem may be the version of G++.
 
